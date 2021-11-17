@@ -1,2 +1,0 @@
-#i learned git today
-hello, git
